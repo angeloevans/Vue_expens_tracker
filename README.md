@@ -5,7 +5,8 @@
 
 ## Description
 
-A simple **Expense Tracker** built with the **Vue.js** framework. The application allows users to manage their finances by adding income and expense transactions, calculating balances, and displaying transaction history. All data is stored in **localStorage** to persist even after refreshing the page.
+A simple **Expense Tracker** built with the **Vue.js** framework. 
+<br>The application allows users to manage their finances by adding income and expense transactions, calculating balances, and displaying transaction history. All data is stored in **localStorage** to persist even after refreshing the page.
 
 ### Features
 - **Add income and expense transactions** with descriptions and amounts.

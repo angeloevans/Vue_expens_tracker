@@ -65,5 +65,6 @@ A simple **Expense Tracker** built with the **Vue.js** framework.
 - Transaction history is displayed and managed in the `TransactionList.vue` component.
 - Data is saved in the `localStorage` to maintain state even after page reloads.
 
-### License
-This project is licensed under the MIT License 
+## License 📜
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
